@@ -1,0 +1,29 @@
+{
+    "title": "WWDC Photo Filters",
+    "publisherName": "Holly and Grace",
+    "feedIdentifier": "io.github.charlescui",
+    "contactURL": "mailto:example@apple.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "天元公学计算机学院",
+            "overviewSubtitle": "CIFilters in the Transition Category.",
+            "detailSubtitle": "Filters in CICategoryTransition.",
+            "description": "Learn some ways to use Core Image to transition between images.",
+            "contentIdentifier": "io.github.WWDCPhotoFilters.imageTransitions",
+            "contentVersion": "1.0",
+            "url": "https://WWDCPhotoFilters.github.io/ImageTransitions/ImageTransitions.playgroundbook.zip",
+            "publishedDate": "2018-05-18T12:00:00+00:00",
+            "lastUpdatedDate": "2018-05-18T12:00:00+00:00",
+            "thumbnailURL": "ImageTransitions/thumbnail.png",
+            "bannerImageURL": "ImageTransitions/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
+    ]
+}
